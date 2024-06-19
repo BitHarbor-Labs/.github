@@ -1,0 +1,29 @@
+# Visual Studio 2022
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Orchard Core
+App_Data/
+Media/
+Themes/
+Modules/OrchardCore.*
+
+# ASP.NET MVC
+node_modules/
+bower_components/
